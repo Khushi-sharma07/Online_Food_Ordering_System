@@ -27,3 +27,7 @@ http://khushisharma7.pythonanywhere.com/
 
 ![image](https://user-images.githubusercontent.com/77405013/131260605-6bf881dd-bc4b-422b-b88f-17a4a14e8a07.png)
 
+
+# Author Name
+
+**Khushi Sharma**

@@ -4,8 +4,9 @@
 http://khushisharma7.pythonanywhere.com/
 
 # Admin Panel 🔐
-Username: Food
-Password: Foodcity
+
+**Username:** Food
+**Password:** Foodcity
 
 # Preview Of My Website 🤩🤩
 
